@@ -1,1 +1,1 @@
-# E-commerce-project
+# This is the E-commerce-project
